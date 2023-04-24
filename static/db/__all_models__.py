@@ -1,0 +1,1 @@
+from static.db import User, Types, TypeUsers
